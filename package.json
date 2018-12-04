@@ -1,0 +1,12 @@
+{
+  "name": "choir",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whiterook6/choir.git"
+  },
+  "author": "whiterook6",
+  "dependencies": {
+    "express": "^4.16.4",
+    "socket.io": "^2.2.0"
+  }
+}
